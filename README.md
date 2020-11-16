@@ -1,3 +1,2 @@
-# VideoPlayer
-# Android Video Player
+# Android Video Player app
 
