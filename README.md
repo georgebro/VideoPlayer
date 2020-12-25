@@ -1,2 +1,2 @@
-# Android Video Player app
+# Android Video Player app.
 
