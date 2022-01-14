@@ -1,3 +1,3 @@
-# Android Video Player
+# Android Video Player app
 # Displaing all video formats  
 
